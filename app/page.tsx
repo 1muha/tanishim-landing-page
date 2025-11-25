@@ -57,11 +57,15 @@ export default function Home() {
           </div>
           <div className="flex items-center gap-4">
             <LanguageSelector currentLanguage={language} onLanguageChange={handleLanguageChange} />
-  <a href="https://t.me/tanishim_bot">
+  <a 
+  href="https://t.me/tanishim_bot" 
+  className="cursor-pointer"
+>
   <Button className="...">
     {translations[language].nav.getStarted}
   </Button>
 </a>
+
           </div>
         </div>
       </nav>

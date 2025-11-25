@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "TANISHIM AI - Voice Contact Management | Muhammadbobur AI",
+  title: "TANISHIM AI - Ovozli TANISHLAR boshqaruvi",
   description:
     "Save contacts in 15 seconds with voice. AI-powered contact management that parses, corrects, and organizes automatically. Search by role, not name. Perfect for networking professionals.",
   keywords: [
@@ -20,18 +20,30 @@ export const metadata: Metadata = {
     "voice recognition",
     "contact organization",
     "smart search",
+    "ovozli kontaktlar ilovasi",
+    "Sun'iy intelekt kontaktlar",
+    "tanishlar ilovasi",
+    "instagram",
+    "youtube",
+    "chatgpt",
+    "AI",
+    "ai",
+    "Ai",
+    "Sun'iy intelekt",
+    "uzbek",
+    "O'zbek",
   ],
-  authors: [{ name: "TANISHIM AI", url: "https://tanishim-ai.vercel.app" }],
+  authors: [{ name: "TANISHIM AI", url: "https://tanishim.vercel.app" }],
   creator: "TANISHIM",
   publisher: "TANISHIM AI",
   formatDetection: {
-    email: false,
+    email: "muhammadboburotaxanov@gmail.com",
     telephone: false,
   },
   openGraph: {
     type: "website",
     locale: "uz_UZ",
-    url: "https://tanishim-ai.vercel.app",
+    url: "https://tanishim.vercel.app",
     title: "TANISHIM AI - Voice-Powered Contact Management",
     description:
       "Save contacts in 15 seconds with your voice. AI automatically parses, corrects, and organizes everything.",
@@ -43,11 +55,11 @@ export const metadata: Metadata = {
     description: "Save contacts in 15 seconds with voice. AI-powered organizing.",
     creator: "@Muhammadbobur",
   },
-  generator: "v0.app",
+  generator: "TANISHIM ai by MUHAMMADBOBUR",
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Pocj7heaLZUk6mX6cKHe8ekutnZFP7.png",
         media: "(prefers-color-scheme: light)",
       },
       {

@@ -203,15 +203,15 @@ export const translations = {
         "15 soniyada ovozning orqali kontaktlarni saqlang. Sun'iy intellekt avtomatik ravishda tahlil qiladi, tuzatadi va tartibga soladi. Ism bo'yicha emas, lavozim bo'yicha qidiring.",
       cta: "MVP-ni sinab ko'ring",
       watchDemo: "Demoni ko'rish",
-      placeholder: "Aloqa ma'lumotlarini ovozda ayting",
+      placeholder: "TANISHINGIZ ma'lumotlarini ovozda ayting",
     },
     features: {
       title: "Kuchli xususiyatlar",
-      subtitle: "Sizning professional tarmoqingizni qurishingiz uchun zarur bo'lgan hamma narsalar",
+      subtitle: "Sizning professional TANISHLAR bazangizni qurishingiz uchun zarur bo'lgan hamma narsalar",
       voiceCapture: {
         title: "Ovozni qabul qilish",
         description:
-          "Tabiiy tarzda 15 soniya davomida gapirib bering. Ismingiz, lavozamingiz, rolni va aloqa ma'lumotlarini ulashing. Zerikarli shakllar yo'q.",
+          "Tabiiy tarzda 15 soniya davomida gapirib bering. Ismingiz, lavozimingiz, rolni va aloqa ma'lumotlarini ulashing. Zerikarli shakllar yo'q.",
       },
       aiProcessing: {
         title: "Sun'iy Intellekt Qayta Ishlash",
@@ -226,7 +226,7 @@ export const translations = {
     },
     howItWorks: {
       title: "Qanday ishlaydi",
-      subtitle: "Tarmoqingizni qurishning uchta sodda bosqichi",
+      subtitle: "TANISHLAR bazangizni qurishning uchta sodda bosqichi",
       step1: {
         title: "Kontaktni yozib oling",
         description:
@@ -251,12 +251,12 @@ export const translations = {
       startUsing: "TANISHIM-ni ishlata boshlang",
       webMvp: "Veb-versiyadan foydalaning",
       openFullscreen: "Website ochish",
-      feedback: "U ishchantiradi va xatolar mavjud. Biz sizning fikringizni bilib olamiz!",
-      contact: "Aloqa: @Muhammadbobur Telegramda",
-      hiring: "💼 Biz mobil ilova yaratish uchun dasturchilar jamini tuzmoqdamiz. Siz qiziqasizmi?",
+      feedback: "DIQQAT: MVP da ba'zi xatoliklar bo'lishi mumkin, bizga ayting!",
+      contact: "Aloqa: Telegram: @HacktiveBuyuk E-mail: muhammadboburotaxanov@gmail.com",
+      hiring: "💼 Biz mobil ilova yaratish uchun dasturchilar jamini tuzmoqdamiz. Siz QO'SHILASIZMI?",
     },
     cta: {
-      title: "Tarmoqingizni o'zgartirtirishga tayinmisiz?",
+      title: "TANISHLAR bazasi boshqaruvini o'zgartirtirishga tayyormisiz?",
       description: "Aloqa boshqaruvini oson, intellektual va insoniy qilish uchun bizning missiyamizga qo'shiling.",
       getStartedNow: "Hozir boshlang",
       visitMvp: "MVP-ni tashrif buyuring",

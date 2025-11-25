@@ -194,7 +194,7 @@ export const translations = {
       features: "Xususiyatlar",
       howItWorks: "Qanday ishlaydi",
       mvp: "MVP",
-      getStarted: '<a href="https://t.me/tanishim_bot">Boshlash</a>',
+      getStarted: <a href="https://t.me/tanishim_bot">"Boshlash"</a>,
     },
     hero: {
       badge: "🎤 Ovozga asoslangan tarmoq",

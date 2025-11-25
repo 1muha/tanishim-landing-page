@@ -57,9 +57,11 @@ export default function Home() {
           </div>
           <div className="flex items-center gap-4">
             <LanguageSelector currentLanguage={language} onLanguageChange={handleLanguageChange} />
-            <Button className="bg-accent hover:bg-accent/90 text-accent-foreground hidden sm:flex">
-              {t.nav.getStarted}
-            </Button>
+            <a href="https://t.me/tanishim_bot">
+  <Button className="...">
+    {translations[lang].nav.getStarted}
+  </Button>
+</a>
           </div>
         </div>
       </nav>
